@@ -8,7 +8,7 @@ neelrshah/neelrshah is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://github.com/neelrshah/neelrshah/blob/main/Youtube%20Banner.png"/></a>
+<a href="https://www.youtube.com/channel/UCB0k6orHQDio0bqIsBQ5dQQ"><img align="center" src="https://github.com/neelrshah/neelrshah/blob/main/Youtube%20Banner.png"/></a>
                                                                                               
 ### Hi There 👋 I'm Neel!
 
