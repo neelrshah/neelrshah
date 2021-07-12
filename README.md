@@ -8,5 +8,6 @@ neelrshah/neelrshah is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<img align="center src="https://github.com/neelrshah/neelrshah/blob/main/Youtube%20Banner.png"/>
+                                                                                              
 ### Hi There 👋 I'm Neel!
