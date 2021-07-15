@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hey There 👋, I'm Neel</h1>
 <h3 align="center">Computer Science Enthusiastic | Android Developer | Python | YouTuber</h3>   
 
-## About Me
+## ABOUT ME
 - 💻 Pursuing B.Tech in Computer Science and Engineering.
 - 📱  Ability to create innovative, creative, & interactive mobile apps for real-life problems.
 - 🥉 Skilled in C++, Java, Python, Data Structures, & Android development.
