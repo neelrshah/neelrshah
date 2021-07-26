@@ -53,7 +53,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.adobe.com/products/premierepro.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
+### Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/neelshah1241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neelshah1241" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCB0k6orHQDio0bqIsBQ5dQQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucb0k6orhqdio0bqisbq5dqq" height="30" width="40" /></a>
