@@ -1,4 +1,3 @@
-
 <a href="https://www.youtube.com/channel/UCB0k6orHQDio0bqIsBQ5dQQ"><img align="center" src="https://github.com/neelrshah/neelrshah/blob/main/Youtube%20Banner.png"/></a>
 <h1 align="center">Hey There 👋, I'm Neel</h1>
 <h3 align="center">Computer Science Enthusiastic | Android Developer | Python | YouTuber</h3>   
