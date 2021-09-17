@@ -3,7 +3,6 @@
 <h3 align="center">Computer Science Enthusiastic | Android Developer | Python | Flutter</h3>   
 
 
-
 ## ABOUT ME
 - 💻 Pursuing B.Tech in Computer Science and Engineering.
 - 📱  Ability to create innovative, creative, & interactive mobile apps for real-life problems.
@@ -23,6 +22,7 @@
  --->
 
 ### LANGUAGES AND TOOLS
+
 
 <p align="left"> 
 
