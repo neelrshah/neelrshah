@@ -16,7 +16,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=neelrshah&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelrshah&theme=radical"/>|
 |---|---|
 
-
 <!---
 <h3 align="left">Languages and Tools:</h3>
  --->
