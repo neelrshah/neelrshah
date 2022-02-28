@@ -10,7 +10,6 @@
 - 💪 Can communicate & coordinate well in a team for smooth operations and contribute to phase of development.
 - ✨ YouTuber
 
-
 ## GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=neelrshah&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelrshah&theme=radical"/>|
 |---|---|
