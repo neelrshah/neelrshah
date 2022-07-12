@@ -4,8 +4,8 @@
 
 
 ## ABOUT ME
-- 💻 Pursuing B.Tech in Computer Science and Engineering.
-- 📱  Ability to create innovative, creative, & interactive mobile apps for real-life problems.
+- 💻 B.Tech in Computer Science and Engineering.
+- 📱 Ability to create innovative, creative, & interactive mobile apps for real-life problems.
 - 🥉 Skilled in C++, Java, Python, Data Structures, Android & Flutter development.
 - 🤍 Love to explore new technologies.
 - 💪 Can communicate & coordinate well in a team for smooth operations and contribute to phase of development.
