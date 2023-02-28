@@ -11,8 +11,11 @@
 - 💪 Can communicate & coordinate well in a team for smooth operations and contribute to phase of development.
 
 ## GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=neelrshah&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelrshah&theme=radical"/>|
+<img src="https://github-readme-stats.vercel.app/api?username=neelrshah&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelrshah&theme=radical"/>| 
 |---|---|
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelrshah&layout=compact&theme=radical&langs_count=6&count_private=false"/></a>
+
+
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
