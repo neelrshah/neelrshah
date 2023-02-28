@@ -10,6 +10,23 @@
 - 🤍 Love to explore new technologies.
 - 💪 Can communicate & coordinate well in a team for smooth operations and contribute to phase of development.
 
+
+<a href="https://www.linkedin.com/in/neelshah1241/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+<a href="mailto:neelrshah1241@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<!-- <a href="https://www.youtube.com/channel/UCB0k6orHQDio0bqIsBQ5dQQ">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCB0k6orHQDio0bqIsBQ5dQQ?style=social?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a> -->
+
+<!-- <a href="https://www.instagram.com/neel_shah_1241/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+ -->
+
+
 ## GIT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=neelrshah&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=neelrshah&theme=radical"/>| 
 |---|---|
