@@ -4,9 +4,9 @@
 
 
 ## ABOUT ME
-- 💻 B.Tech in Computer Science and Engineering.
-- 📱 Ability to create innovative, creative, & interactive mobile apps for real-life problems.
-- 🥉 Skilled in Java, Python, Spring boot, Android & Flutter development.
+- 💻 Experienced senior software engineer and mobile app developer with over 2.5+ years of experience building user-centric, scalable mobile applications. 
+- 📱 Skilled in performance optimization, cross-functional collaboration, API development, and designing creative and engaging mobile applications that convert complex business requirements into practical solutions and provide significant outcomes.
+- 🥉 Expertise in Flutter, Dart, Firebase, React Native, and Android development.
 - 🤍 Love to explore new technologies.
 - 💪 Can communicate & coordinate well in a team for smooth operations and contribute to phase of development.
 
