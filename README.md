@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/channel/UCB0k6orHQDio0bqIsBQ5dQQ"><img align="center" src="https://github.com/neelrshah/neelrshah/blob/main/Youtube%20Banner.png"/></a>
 <h1 align="center">Hey There 👋, I'm Neel</h1>
-<h3 align="center">Senior Software Engineer at Persistent Systems | Android | Python | Flutter | Mobile App Developer</h3>   
+<h3 align="center">Senior Software Engineer at Expleo | Ex-Persistent Systems | React Native | Python | Flutter | Mobile App Developer</h3>   
 
 
 ## ABOUT ME
