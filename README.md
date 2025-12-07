@@ -8,7 +8,7 @@
 I am an experienced **Senior Software Engineer** with **3+ years of experience** building user-centric, scalable mobile applications. I specialize in converting complex business requirements into clean, high-performance architectures.
 
 * 📱 **Scale:** Successfully delivered global platforms serving **5M+ users** with 99.9% uptime.
-* 🧠 ** Innovation:** 2nd Runner-Up at **Semicolons Global Hackathon 2025** (AI-Enabled Observability Platform).
+* 🧠 **Innovation:** 2nd Runner-Up at **Semicolons Global Hackathon 2025** (AI-Enabled Observability Platform).
 * 🚀 **Core Focus:** Flutter, React Native, Digital Transformation, and Generative AI Integration.
 * 🤝 **Leadership:** Experienced in mentoring cross-functional teams and driving agile development.
   
